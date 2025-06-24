@@ -1,0 +1,9 @@
+{
+    "tabWidth": 4,
+    "singleQuote": false,
+    "quoteProps": "as-needed",
+    "trailingComma": "none",
+    "objectWrap": "collapse",
+    "arrowParens": "always",
+    "bracketSpacing": true
+}

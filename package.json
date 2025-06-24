@@ -1,0 +1,16 @@
+{
+  "name": "shummg-apm-data",
+  "version": "1.0.0",
+  "description": "AviUtl用スクリプトのパッケージデータ。",
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier --write src"
+  },
+  "author": "shumm7",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "prettier": "^3.6.0",
+    "typescript": "^5.8.3"
+  }
+}
